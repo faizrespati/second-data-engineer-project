@@ -19,7 +19,7 @@ Projek Data Engineering sederhana untuk memproses, mentransformasi, dan mengagre
 ## 📁 Struktur Folder Projek
 
 ```text
-4th-data-engineer/
+2nd-data-engineer/
 ├── data/
 │   ├── raw/                  # Data mentah (input)
 │   └── processed/            # Data hasil olahan ETL (output)
